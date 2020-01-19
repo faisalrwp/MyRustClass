@@ -8,7 +8,7 @@ edition = "2018"
 
 repository = "https://github.com/faisalrwp/MyRustClass/tree/master/20200119/mycrate"
 homepage = "https://github.com/faisalrwp/MyRustClass/tree/master/20200119/mycrate"
-license = "license-mit"
+license = "LICENSE-MIT"
 readme = "README.md"
 description = "My First Crate"
 [dependencies]
