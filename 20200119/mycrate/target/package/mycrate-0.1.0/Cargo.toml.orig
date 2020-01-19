@@ -1,0 +1,14 @@
+[package]
+name = "mycrate"
+version = "0.1.0"
+authors = ["Faisal Shahzad <faisal.rwp@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+repository = "https://github.com/faisalrwp/MyRustClass/tree/master/20200119/mycrate"
+homepage = "https://github.com/faisalrwp/MyRustClass/tree/master/20200119/mycrate"
+license = "license-mit"
+readme = "README.md"
+description = "My First Crate"
+[dependencies]
