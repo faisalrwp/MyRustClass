@@ -18,7 +18,7 @@ authors = ["Faisal Shahzad <faisal.rwp@gmail.com>"]
 description = "My First Crate"
 homepage = "https://github.com/faisalrwp/MyRustClass/tree/master/20200119/mycrate"
 readme = "README.md"
-license = "LICENSE-MIT"
+license = "MIT"
 repository = "https://github.com/faisalrwp/MyRustClass/tree/master/20200119/mycrate"
 
 [dependencies]
